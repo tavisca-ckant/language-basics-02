@@ -23,8 +23,7 @@ namespace Tavisca.Bootcamp.LanguageBasics.Exercise1
 
         public static string GetCurrentTime(string[] exactPostTime, string[] showPostTime)
         {
-            // Add your code here.
-            throw new NotImplementedException();
+            return ForumPostEasy.GetCurrentTime (exactPostTime, showPostTime);
         }
     }
 }
