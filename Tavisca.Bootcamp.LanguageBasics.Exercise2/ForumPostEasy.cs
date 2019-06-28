@@ -1,6 +1,6 @@
 using System;
 
-namespace GradeBook
+namespace Tavisca.Bootcamp.LanguageBasics.Exercise1
 {
     public class ForumPostEasy
     {
